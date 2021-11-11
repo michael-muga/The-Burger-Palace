@@ -1,11 +1,41 @@
+.section1{
+    background-image: linear-gradient(110deg,white 50%,#f6B400 50%);
+}
 #logo{
     display: flex;
 }
 #navbar li{
     display: inline;
-    margin-right: 5em;
+    margin-right: 7em;
+    font-weight: bold;
 }
 .navigation{
     display: flex;
     justify-content: space-between;
+}
+.description{
+    display: flex;
+    justify-content: space-between;
+}
+.description #sectimg{
+    margin-right: 19em;
+}
+.description #info{
+    margin-left: 6em;
+    margin-top: 6em;
+}
+.description #info button{
+    margin-top: 8em;
+    margin-left: 2em;
+    border-radius: 15px;
+    border-bottom-right-radius: 2px;
+    height: 40px;
+    width: 100px;
+    background-color: #f6B400;
+}
+.description #info p{
+    margin-top: 4em;
+}
+.description #info h2{
+    font-size: xx-large;
 }
