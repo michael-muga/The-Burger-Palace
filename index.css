@@ -1,0 +1,11 @@
+#logo{
+    display: flex;
+}
+#navbar li{
+    display: inline;
+    margin-right: 5em;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
