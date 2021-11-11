@@ -39,3 +39,49 @@
 .description #info h2{
     font-size: xx-large;
 }
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 10em;
+}
+.section2 p{
+    text-align: center;
+    font-size: small;
+}
+.section2 h3{
+    color: maroon;
+    font-size: larger;
+    font-weight: 600;
+}
+.section2 #quality{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid rgb(185, 179, 179);
+    border-radius:8px;
+    padding: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+.section2 #delivery{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid rgb(185, 179, 179);
+    border-radius:8px;
+    padding: 2em;
+
+}
+.section2 #Meals{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid rgb(185, 179, 179);
+    border-radius:8px;
+    padding: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
