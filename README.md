@@ -1,8 +1,8 @@
 # The-Burger-Palace
 Landing page of the burger palace website
-by Michael Muga
+*by Michael Muga
 
-![Project Image](images/project image.png)
+![Project Image](images/projectimage.png)
 
 # Table of content
 
