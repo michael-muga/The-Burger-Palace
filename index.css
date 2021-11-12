@@ -195,3 +195,20 @@
     background-color: #f6B400;
     height: 500px;
 }
+.section6{
+    display: flex;
+    justify-content: space-between;
+}
+.section6 .logo2{
+    display: flex;
+    margin-top: 3em;   
+    margin-left: 1em;
+}
+.subbox{
+    margin-top: 2em;
+}
+.subbox button{
+    background-color: #f6B400;
+    border-color: #f6B400;
+    color: white;
+}
