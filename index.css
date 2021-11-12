@@ -212,3 +212,11 @@
     border-color: #f6B400;
     color: white;
 }
+.sectionfooter{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+}
+.socials{
+    margin-top: 1em;
+}
