@@ -2,7 +2,7 @@
 Landing page of the burger palace website
 by Michael Muga
 
-![Project Image](images/projectimage.png)
+![Project Image](images/project image.png)
 
 # Table of content
 
