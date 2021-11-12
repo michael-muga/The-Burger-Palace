@@ -6,8 +6,23 @@
 }
 #navbar li{
     display: inline;
-    margin-right: 7em;
+    margin-right: 6em;
     font-weight: bold;
+}
+#navbar li button{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: #f6B400;
+    border-color: #f6B400;
+    color: white;
+    position: relative;
+    bottom: 2em;
+    right: 1em;
+}
+#navbar li #crt{
+    position: relative;
+    top: 2em;
 }
 u{
     text-decoration-line:underline;
@@ -190,7 +205,7 @@ u{
     margin-bottom: 8em;
 }
 .section4 .sectbuttons{
-    margin-top: 5em;
+    margin-top: 10em;
     display: flex;
 } 
 .section4 .sectbuttons #one{
@@ -207,6 +222,19 @@ u{
     background-color: rgb(167, 164, 164);
     margin-right: 2em;
 }
+.section4 .sectbuttons img{
+    position: relative;
+    bottom: 1em;
+}
+.section4 .imgs #imgs1{
+    position: relative;
+    left: 18em;
+    top: 2em;
+}
+.section4 .imgs{
+    margin-right: 3em;
+}
+
 .section5{
     background-color: #f6B400;
     height: 500px;
